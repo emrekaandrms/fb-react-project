@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fb-react-project/static/css/main.e7cccb22.chunk.css",
+    "main.js": "/fb-react-project/static/js/main.aaca70f4.chunk.js",
+    "main.js.map": "/fb-react-project/static/js/main.aaca70f4.chunk.js.map",
+    "runtime~main.js": "/fb-react-project/static/js/runtime~main.7d46428c.js",
+    "runtime~main.js.map": "/fb-react-project/static/js/runtime~main.7d46428c.js.map",
+    "static/js/2.9d724df1.chunk.js": "/fb-react-project/static/js/2.9d724df1.chunk.js",
+    "static/js/2.9d724df1.chunk.js.map": "/fb-react-project/static/js/2.9d724df1.chunk.js.map",
+    "index.html": "/fb-react-project/index.html",
+    "precache-manifest.60dba4362cb1f7ecdd2cd6a6eb61586c.js": "/fb-react-project/precache-manifest.60dba4362cb1f7ecdd2cd6a6eb61586c.js",
+    "service-worker.js": "/fb-react-project/service-worker.js",
+    "static/css/main.e7cccb22.chunk.css.map": "/fb-react-project/static/css/main.e7cccb22.chunk.css.map"
+  }
+}
